@@ -1,0 +1,114 @@
+{
+  "source": "ivory.co.il",
+  "categories": [
+    {
+      "category": "CPU",
+      "items": [
+        {
+          "description": "Intel CPUs",
+          "link": "https://www.ivory.co.il/intel_cpu.html"
+        },
+        {
+          "description": "AMD CPUs",
+          "link": "https://www.ivory.co.il/amd_cpu.html"
+        }
+      ]
+    },
+    {
+      "category": "Motherboard",
+      "items": [
+        {
+          "description": "Intel Motherboards",
+          "link": "https://www.ivory.co.il/intel_motherboard.html"
+        },
+        {
+          "description": "AMD Motherboards",
+          "link": "https://www.ivory.co.il/amd_motherboard.html"
+        }
+      ]
+    },
+    {
+      "category": "Memory",
+      "items": [
+        {
+          "description": "RAM",
+          "link": "https://www.ivory.co.il/computer_memory.html"
+        }
+      ]
+    },
+    {
+      "category": "Storage",
+      "items": [
+        {
+          "description": "Internal SSDs",
+          "link": "https://www.ivory.co.il/ssd_storage.html"
+        },
+        {
+          "description": "Internal HDDs",
+          "link": "https://www.ivory.co.il/hard_disk.html"
+        }
+      ]
+    },
+    {
+      "category": "Graphics",
+      "items": [
+        {
+          "description": "NVIDIA GPUs",
+          "link": "https://www.ivory.co.il/catalog.php?act=cat&id=2652&f=1258"
+        },
+        {
+          "description": "AMD GPUs",
+          "link": "https://www.ivory.co.il/catalog.php?act=cat&id=2652&f=1259"
+        }
+      ]
+    },
+    {
+      "category": "Power",
+      "items": [
+        {
+          "description": "Power Supplies (PSUs)",
+          "link": "https://www.ivory.co.il/power_supply.html"
+        }
+      ]
+    },
+    {
+      "category": "Cooling",
+      "items": [
+        {
+          "description": "CPU Coolers",
+          "link": "https://www.ivory.co.il/cpu_cooler.html"
+        },
+        {
+          "description": "Water Coolers",
+          "link": "https://www.ivory.co.il/cpu-liquid-coolers.html"
+        },
+        {
+          "description": "Case Fans",
+          "link": "https://www.ivory.co.il/case_fan.html"
+        }
+      ]
+    },
+    {
+      "category": "Case",
+      "items": [
+        {
+          "description": "Computer Cases",
+          "link": "https://www.ivory.co.il/computer_case.html"
+        }
+      ]
+    },
+    {
+      "category": "Peripherals",
+      "items": [
+        {
+          "description": "Network Cards",
+          "link": "https://www.ivory.co.il/wifi_adapter.html"
+        },
+        {
+          "description": "Optical Drives",
+          "link": "https://www.ivory.co.il/disc_burners.html"
+        }
+      ]
+    }
+  ]
+}
